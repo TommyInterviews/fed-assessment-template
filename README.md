@@ -11,7 +11,7 @@ Clone repo
 npm install
 ``` 
 
-## Serve About page statically with generated HTML:    
+# Serve About page statically with generated HTML:    
 
 Change package.json npm build to 'next build && next export'  
 
