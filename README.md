@@ -15,7 +15,7 @@ npm install
 
 Change package.json script npm build to 'next build && next export'  
 
-This will build and create a out folder with statically generated pages
+This will build and create an out folder with statically generated pages
 ```Bash
 npm start
 ```
